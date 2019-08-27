@@ -7,10 +7,10 @@ I would like to be able to see a list of research articles."
 Note on troubleshooting component test
 //Code for troubleshooting: expect(describedComponent.text()).toEqual(response)
 
-How's it going Thomas?
+se
 
-Whats up fellas!!
+another message
+second tryyy
+Something else
 
-helloo //JULIE
-
-Hello 
+I want to see me in the commmit!
